@@ -39,7 +39,7 @@ $OSCreateOption = "FromImage"
 $NetworkName = "PRODWARE365DEMO2-vnet"
 $NICName = "prodware365demo2"
 $PublicIPAddressName = "PRODWARE365DEMO2"
-$SubnetName = "PRODWARE365DEMO2"
+$SubnetName = "default"
 $SubnetAddressPrefix = "10.2.0.0/24"
 $VnetAddressPrefix = "10.2.0.0/16"
 
